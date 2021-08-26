@@ -1,0 +1,17 @@
+div.dropcontainer {
+    border: 1px dashed #BDBCC8;
+    border-radius: 4px;
+    padding: 25px;
+    text-align: center;
+    margin: 15px;
+    cursor: pointer;
+}
+
+button {
+    border: none;
+    text-transform: uppercase;
+    background-color: #2D2B4D;
+    color: #FFF;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
